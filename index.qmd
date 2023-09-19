@@ -2,8 +2,21 @@
 title: "Home"
 ---
 
-![](images/profile.jpg){fig-align="right" width="322"}
+::: columns
+::: {.column width="65%"}
+Hi! My name is Christopher Ormerod.
 
-My name is Christopher Ormerod
+I am a Principal Data Scientist for Cambium Assessment. My research concerns fine-tuning and training large language models for applications to education and assessment. This means my job is to take the latest developments in Artificial Intelligence and see if we can use them to help teachers and students.
 
-christopher.ormerod\@cambiumassessment.com
+I am currently a Co-chair of the NCME special interest group on Artificial Intelligence in Measurement and Education (AIME).
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![](images/profile.jpg){width="240"}
+
+![](images/5296514_bird_tweet_twitter_twitter%20logo_icon.png){width="64"} ![](images/5296501_linkedin_network_linkedin%20logo_icon.png){width="64"} ![](images/mail.256x256.png){width="64"}
+:::
+:::
