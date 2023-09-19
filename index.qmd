@@ -2,3 +2,8 @@
 title: "Home"
 ---
 
+![](images/profile.jpg){fig-align="right" width="322"}
+
+My name is Christopher Ormerod
+
+christopher.ormerod\@cambiumassessment.com

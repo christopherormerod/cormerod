@@ -7,8 +7,8 @@ website:
   navbar:
     left:
       - index.qmd
-      - about.qmd
       - publications.qmd
+      - experience.qmd
 
 format:
   html:
