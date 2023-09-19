@@ -1,19 +1,20 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Cormerod"
+  title: "Christopher Ormerod"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - index.qmd
       - about.qmd
+      - publications.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: morph
     css: styles.css
     toc: true
-
-
-
+    backgroundcolor: white
+    linestretch: 1.7
+    fontcolor: black
