@@ -17,6 +17,6 @@ I am currently a Co-chair of the NCME special interest group on Artificial Intel
 ::: {.column width="30%"}
 ![](images/profile.jpg){width="240"}
 
-![](images/5296514_bird_tweet_twitter_twitter%20logo_icon.png){width="64"} ![](images/5296501_linkedin_network_linkedin%20logo_icon.png){width="64"} ![](images/mail.256x256.png){width="64"}
+![](images/5296514_bird_tweet_twitter_twitter%20logo_icon.png){width="48"} ![](images/5296501_linkedin_network_linkedin%20logo_icon.png){width="48"} ![](images/mail.256x256.png){width="48"}
 :::
 :::

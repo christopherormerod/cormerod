@@ -7,6 +7,7 @@ website:
   navbar:
     left:
       - index.qmd
+      - research.qmd
       - publications.qmd
       - experience.qmd
 

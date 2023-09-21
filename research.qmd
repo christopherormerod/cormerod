@@ -1,0 +1,66 @@
+---
+title: "Research"
+---
+
+# Artificial Intelligence
+
+::: columns
+::: {.column width="68%"}
+Large Language Models (LLMs) have revolutionized the way we solve problems in NLP. My research specifically concerns how we can apply those to education or assessment.
+
+-   **Automated Scoring Systems :** As LLMs are pretrained on language, they can be effectively fine-tuned to produce scores more accurately than previous methods.
+
+-   **Automated Writing Evaluation :** How can we use a combination of LLMs and datasets to effectively provide feedback to student as to how to improve their writing.    
+
+-   **Gramatical Error Correction :** Given a grammatically incorrect text, how do we rewrite it in a way that is grammatically correct while maintaining the authors original intent. 
+
+-   **Bias and Validity :** How does one prove, statistically, that automated scoring model give higher scores for members of a certain subgroup? How do we also show that the models are giving valid interpretations of the constructs on which the scores are modeled. 
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="30%"}
+
+![](images/education.jpg){width="160" height="320"}
+
+:::
+
+:::
+
+# Systems Biology
+
+::: columns
+::: {.column width="30%"}
+
+![](images/biology.jpg){width="160" height="320"} 
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="65%"}
+My research concerns systems biology, which is an interdisciplinary field of study that focuses on complex interactions within biological systems. In particular, proteins define a signaling network, where the majority of physical interactions between proteins is tested by co-precipitation. 
+
+The big open question, when we interpret the protein-protein interaction network as a graph, what insights does the topological features of the graph tell us about their underlying biological functions? Graphical neural networks are a natural way to model th protein-protein interaction networks in a way that implicitly accounts for the structure of the network. 
+:::
+:::
+
+# Mathematics
+
+::: columns
+
+::: {.column width="65%"}
+Discret Painlev\'e equations are discrete versions of the classical Painleve equations. They are second order non-autonomous recurrence relations with the singlularity confinement property, which is a discrete analogue of the Painleve property, solvability via associated linear problems. Their spaces of solutions are described by rational surfaces that coalese to elliptic surfaces in a particular limit, hence, the classification of discrete Painlev'e equations closely follows the classification of elliptic surfaces. That is to say, their symmetries are described by Affine Weyl groups with the master case being associated with a symmetry of Affine type $E_8^{(1)}$.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+
+![](images/math.jpg){width="160" height="320"}
+
+:::
+:::
