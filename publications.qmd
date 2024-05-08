@@ -4,68 +4,47 @@ title: "Publications"
 
 # Artificial Intelligence
 
-- Ormerod, Christopher M; Patel, Milan; Wang, Harry; Using Language Models to Detect Alarming Student Responses, 2023
-- Lottridge, Susan; Woolf, Sherri; Young, Mackenzie; Jafari, Amir; Ormerod, Chris; The use of annotations to explain labels: Comparing results from a human‐rater approach to a deep learning approach, 2023
-- Lottridge, Susan; Ormerod, Chris; Jafari, Amir; Psychometric considerations when using deep learning for automated scoring, 2023
-- Ormerod, Christopher; Using language models in the implicit automated assessment of mathematical short answer items, 2023
-- Ormerod, Christopher; Short-answer scoring with ensembles of pretrained language models, 2022
-- Ormerod, Christopher; Lottridge, Susan; Harris, Amy E; Patel, Milan; van Wamelen, Paul; Kodeswaran, Balaji; Woolf, Sharon; Young, Mackenzie; 
-Automated short answer scoring using an ensemble of neural networks and latent semantic analysis classifiers, 2022
-- Ormerod, Christopher Michael; Mapping between hidden states and features to validate automated essay scoring using DeBERTa models, 2022
-- Ormerod, Christopher M; Malhotra, Akanksha; Jafari, Amir; Automated essay scoring using efficient transformer-based language models, 2021
-- Ormerod, Christopher; Jafari, Amir; Lottridge, Susan; Patel, Milan; Harris, Amy; van Wamelen, Paul; The effects of data size on Automated Essay Scoring engines, 2021
-- Uria Rodriguez, Pedro; Jafari, Amir; Ormerod, Christopher M; Language models and Automated Essay Scoring, 2019
-- Ormerod, Christopher M; Harris, Amy E; Neural network approach to classifying alarming student responses to online assessment, 2018
+- Ormerod, C., Burkhardt, A., Young, M., & Lottridge, S. (2023, November). Argumentation Element Annotation Modeling using XLNet [arXiv preprint arXiv:2311.06239]. 
+- Ormerod, C. (2023, August). Using language models in the implicit automated assessment of mathematical short answer items [arXiv preprint arXiv:2308.11006]. https://arxiv.org/pdf/2306.11644
+- Ormerod, C. M., Patel, M., & Wang, H. (2023, May). Using Language Models to Detect Alarming Student Responses [arXiv preprint arXiv:2305.07709]. 
+- Lottridge, S., Woolf, S., Young, M., Jafari, A., & Ormerod, C. (2023). The use of annotations to explain labels: Comparing results from a human-rater approach to a deep learning approach. Journal of Computer Assisted Learning, 39(3), 787-803. 
+- Lottridge, S., Ormerod, C., & Jafari, A. (2023). Psychometric considerations when using deep learning for automated scoring. In Advancing Natural Language Processing in Educational Assessment (pp. 15-25). Routledge.
+- Burkhardt, A. K., Lottridge, S., Woolf, S., & Ormerod, C. (n.d.). Defining At-Risk Student Responses.
+- Ormerod, C. M. (2022). Mapping between hidden states and features to validate automated essay scoring using deberta models. Psychological Test and Assessment Modeling, 64(4), 495-526. 
+- Ormerod, C. (2022, February). Short-answer scoring with ensembles of pretrained language models [arXiv preprint arXiv:2202.11558](https://arxiv.org/pdf/2305.16540)
+- Ormerod, C. M., Malhotra, A., & Jafari, A. (2021, February). Automated essay scoring using efficient transformer-based language models [arXiv preprint arXiv:2102.13136](https://arxiv.org/pdf/2305.11184)
+- Ormerod, C., Jafari, A., Lottridge, S., Patel, M., Harris, A., & van Wamelen, P. (2021, August). The effects of data size on Automated Essay Scoring engines [arXiv preprint arXiv:2108.13275](https://arxiv.org/pdf/2305.11184)
+- Rodriguez, P. U., Jafari, A., & Ormerod, C. M. (2019, September). Language models and automated essay scoring [arXiv preprint arXiv:1909.09482]. [https://arxiv.org/abs/1908.09079](https://arxiv.org/abs/1908.09079)
+- Ormerod, C. M., & Harris, A. E. (2018, September). Neural network approach to classifying alarming student responses to online assessment [arXiv preprint arXiv:1809.08899](https://arxiv.org/pdf/2003.03680)
 
 # Systems Biology
 
-- Al-Anzi, Bader; Arpp, Patrick; Gerges, Sherif; Ormerod, Christopher; Olsman, Noah; Zinn, Kai; 
-Experimental and Computational Analysis of a Large Protein Network That Controls Fat Storage Reveals the Design Principles of a Signaling Network, 2015
-- Al-Anzi, Bader; Olsman, Noah; Ormerod, Christopher; Gerges, Sherif; Piliouras, Georgios; Ormerod, John; Zinn, Kai; 
-A new computational model captures fundamental architectural features of diverse biological networks, 2016
-- Al-Anzi, Bader; Gerges, Sherif; Olsman, Noah; Ormerod, Christopher; Piliouras, Georgios; Ormerod, John; Zinn, Kai; 
-Modeling and analysis of modular structure in diverse biological networks, 2017
-
+* Al-Anzi, B., Gerges, S., Olsman, N., Ormerod, C., Piliouras, G., Ormerod, J., & Zinn, K. (2017). Modeling and analysis of modular structure in diverse biological networks. *Journal of Theoretical Biology*, 422, 18-30. 
+* Al-Anzi, B., Olsman, N., Ormerod, C., Gerges, S., Piliouras, G., & Zinn, K. (2016). A new computational model captures fundamental architectural features of diverse biological networks. *bioRxiv*, 046813. 
+* Al-Anzi, B., Arpp, P., Gerges, S., Ormerod, C., Olsman, N., & Zinn, K. (2015). Experimental and Computational Analysis of a Large Protein Network That Controls Fat Storage Reveals the Design Principles of a Signaling Network. *PLoS Comput Biol*. 
+* Ormerod, C. (2004). Cellular automata model of HIV infection on tilings of the plane. In *Proceedings of the 7th Asia-Pacific Conference on Complex Systems*. 
 
 # Mathematics
 
-- Ormerod, Christopher M; Rains, Eric; 
-A symmetric difference-differential Lax pair for Painlevé VI, 2017
-- Ormerod, Christopher M; Rains, Eric; 
-An elliptic Garnier system, 2017
-- Ormerod, Christopher M; Rains, Eric; Commutation relations and discrete Garnier systems, 2016
-- Ormerod, Christopher Michael; Yamada, Yasuhiko; From polygons to ultradiscrete Painlevé equations, 2015
-- Ormerod, Christopher M; Spectral curves and discrete Painlevé equations, 2015
-- Dzhamay, Anton; Maruno, Kenichi; Ormerod, Christopher M; Algebraic and Analytic Aspects of Integrable Systems and Painlevé Equations, 2015
-- Ormerod, Christopher M; Van der Kamp, Peter H; Hietarinta, Jarmo; Quispel, GRW; 
-Twisted reductions of integrable lattice equations, and their Lax representations, 2014
-- Ormerod, Christopher M; 
-Symmetries and special solutions of reductions of the lattice potential KdV equation, 2013
-- Ormerod, Christopher M; 
-Tropical geometric interpretation of ultradiscrete singularity confinement, 2013
-- Ormerod, CM; Van der Kamp, Peter H; Quispel, GRW; Discrete Painlevé equations and their Lax pairs as reductions of integrable lattice equations, 2013
-- Ormerod, Christopher M; Reductions of lattice mKdV to q-PVI, 2012
-- Witte, Nicholas S; Ormerod, Christopher M; Construction of a Lax Pair for the q-Painlevé System, 2012
-- Ormerod, CM; Quispel, GRW; Roberts, JAG; Discrete integrable systems: QRT mappings and elliptic surfaces, 2012
-- Ormerod, Christopher M; Witte, Nicholas S; Forrester, Peter J; Connection preserving deformations and q-semi-classical orthogonal polynomials, 2011
-- Ormerod, Christopher; A study of the associated linear problem for q-PV, 2011
-- Ormerod, Christopher; The lattice structure of connection preserving deformations for q-Painlevé equations I, 2011
-- Ormerod, Christopher; Symmetries in connection preserving deformations, 2011
-- Ormerod, Christopher; A study of the associated linear problem for q-Pᵥ, 2011
-- Ormerod, Christopher; Reductions of lattice mKdV to $ q $-$\mathrm {P} _ {VI}$, 2011
-- Forrester, Peter J; Ormerod, Christopher M; 
-Differential equations for deformed Laguerre polynomials, 2010
-- Ormerod, Christopher;Hypergeometric solutions to an ultradiscrete Painlevé equation, 2010
-- Ormerod, Christopher;Associated Linear Theory of Ultradiscrete Painlevé Equations, 2008
-- Joshi, Nalini; Ormerod, Chris; 
-The General Theory of Linear Difference Equations over the Max‐Plus Semi‐Ring, 2007
-- Ormerod, Chris; 
-Connection matrices for ultradiscrete linear problems, 2007
-- Field, Chris M; Ormerod, Chris M; 
-An ultradiscrete matrix version of the fourth Painlevé equation, 2007
-- Ormerod, Christopher; An ultradiscrete QRT mapping from tropical elliptic curves, 2006
-- Joshi, N; Nijhoff, FW; Ormerod, C; 
-Lax pairs for ultra-discrete Painlevé cellular automata, 2004
-- Ormerod, Christopher; Cellular automata model of HIV infection on tilings of the plane, 2004
-- Ormerod, Christopher; Bordes, NS; Pailthorpe, BA;  Characterising Coupled Map Lattices, 2000
-
+- Ormerod, C. M., Rains, E. M. (2017). An elliptic Garnier system. *Communications in Mathematical Physics*, 355, 741-766. 
+- Ormerod, C. M., Rains, E. (2017). A symmetric difference-differential Lax pair for Painlevé VI. *Journal of Integrable Systems*, 2(1), xyx003. [invalid URL removed]
+- Ormerod, C. M., Rains, E. M., & others (2016). Commutation relations and discrete Garnier systems. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 12, 110.
+- Dzhamay, A., Maruno, K., & Ormerod, C. M. (2015). *Algebraic and Analytic Aspects of Integrable Systems and Painlevé Equations*. American Mathematical Soc.
+- Ormerod, C. M., Yamada, Y., & others (2015). From polygons to ultradiscrete Painlevé equations. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 11, 056. 
+- Ormerod, C. M., van der Kamp, P. H., Hietarinta, J., & Quispel, G. R. W. (2014). Twisted reductions of integrable lattice equations, and their Lax representations. *Nonlinearity*, 27(6), 1367.
+- Ormerod, C. M., & others (2014). Symmetries and special solutions of reductions of the lattice potential KdV equation. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 10, 002. 
+* Ormerod, C. M. (2013). Tropical geometric interpretation of ultradiscrete singularity confinement. *Journal of Physics A: Mathematical and Theoretical*, 46(2013), 305204.
+- Ormerod, C. M., van der Kamp, P. H., & Quispel, G. R. W. (2013). Discrete Painlevé equations and their Lax pairs as reductions of integrable lattice equations. *Journal of Physics A: Mathematical and General*
+- Witte, N. S., Ormerod, C. M., & others (2012). Construction of a Lax Pair for the q-Painlevé System. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 8, 097. 
+- Forrester, P. J., & Ormerod, C. M. (2010). Differential equations for deformed Laguerre polynomials. *Journal of Approximation Theory*, 162(4), 653–677.
+- Ormerod, C. M., Witte, N. S., & Forrester, P. J. (2011). Connection preserving deformations and q-semi-classical orthogonal polynomials. *Nonlinearity*, 24, 2405. 
+- Ormerod, C. (2011). A study of the associated linear problem for q-PV. *Journal of Physics A: Mathematical and Theoretical*, 44, 025201. 
+- Ormerod, C. M. (2011). The lattice structure of connection preserving deformations for q-Painlevé equations I. *SIGMA*, 7(045), 22. 
+- Ormerod, C. M., & others (2011). Symmetries in connection preserving deformations. *SIGMA. Symmetry, Integrability and Geometry: Methods and Applications*, 7, 049.
+- Ormerod, C. M. (2011). Reductions of lattice mKdV to q-PVI. [arXiv preprint arXiv:1112.2419]. (year: 2011)
+- Ormerod, C. M. (2010). Hypergeometric solutions to an ultradiscrete Painlevé equation. *J. Nonlinear Math. Phys*, 17, 87–102. 
+- Ormerod, C. (2007). Connection matrices for ultradiscrete linear problems. *Journal of Physics A: Mathematical and Theoretical*, 40(42), 12799. 
+- Field, C. M., & Ormerod, C. M. (2007). An ultradiscrete matrix version of the fourth Painlevé equation. *Advances in Difference Equations*, 2007(1), 96752.
+- Joshi, N., Nijhoff, F. W., & Ormerod, C. (2007). Lax pairs for ultra-discrete Painlevé cellular automata. *Journal of Physics A: Mathematical and General*, 37, L559. 
+- Ormerod, C. (2006). An ultradiscrete QRT mapping from tropical elliptic curves [arXiv preprint math-ph/0609060]. (year: 2006)
+- Joshi, N., & Ormerod, C. (2004). The General Theory of Linear Difference Equations over the Max-Plus Semi-Ring. *Studies in Applied Mathematics*, 118(1), 85-97. 
