@@ -4,6 +4,10 @@ title: "Publications"
 
 # Artificial Intelligence
 
+- Kwako, A., & Ormerod, C. (2024). Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring. In Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) (pp. 78-86).
+- Bulut, O., Beiting-Parrish, M., Casabianca, J. M., Slater, S. C., Jiao, H., Song, D., Ormerod, C. M., Fabiyi, D. G., Ivan, R., Walsh, C., et al. (2024). The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges [arXiv preprint arXiv:2406.18900].
+- Ormerod, C. M., & Kwako, A. (2024). Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2407.01873].
+- Kwako, A., & Ormerod, C. (2024). Improving Transformer-Based Automated Scoring of K-12 Science Items.
 - Ormerod, C., Burkhardt, A., Young, M., & Lottridge, S. (2023, November). Argumentation Element Annotation Modeling using XLNet [arXiv preprint arXiv:2311.06239]. 
 - Ormerod, C. (2023, August). Using language models in the implicit automated assessment of mathematical short answer items [arXiv preprint arXiv:2308.11006]. https://arxiv.org/pdf/2306.11644
 - Ormerod, C. M., Patel, M., & Wang, H. (2023, May). Using Language Models to Detect Alarming Student Responses [arXiv preprint arXiv:2305.07709]. 
