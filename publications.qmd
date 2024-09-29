@@ -4,6 +4,8 @@ title: "Publications"
 
 # Artificial Intelligence
 
+- Ormerod, C., & Kwako, A. (2024) Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2408.01873](https://arxiv.org/pdf/2408.01873) 
+- Wang, Z., & Ormerod, C. (2024) Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring [arXiv preprint arXiv:2408.03811](https://arxiv.org/pdf/2408.03811) 
 - Kwako, A., & Ormerod, C. (2024). Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring. In Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) (pp. 78-86).
 - Bulut, O., Beiting-Parrish, M., Casabianca, J. M., Slater, S. C., Jiao, H., Song, D., Ormerod, C. M., Fabiyi, D. G., Ivan, R., Walsh, C., et al. (2024). The Rise of Artificial Intelligence in Educational Measurement: Opportunities and Ethical Challenges [arXiv preprint arXiv:2406.18900].
 - Ormerod, C. M., & Kwako, A. (2024). Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2407.01873].
