@@ -1,0 +1,27 @@
+---
+title: "Courses"
+---
+
+These are courses that I have taught in the past. 
+
+## LaTrobe University
+
+- Scientific Computing (Junior year) - 2010-2013 - This course focused on numerical methods. Topics included numerical root finding, optimization, integration, and numerical differential equation solving. 
+
+- Linear Algebra (Freshmen) - 2010 - Standard first year linear algebra course covering vectors, matrices, eigenvalues, and linear transformations. 
+
+## California Institute of Technology
+
+- Galois theory and representation theory (Sophmore)- 2013-2016 - Field extensions, Galois groups, and representation theory.
+
+- Combinatorial Analysis (Graduate) - 2015-2016 - Graph theory and other related combinatorial problems. 
+
+- Quantum calculus and q-special functions (Graduate) - 2013 - The theory of discrete calculus and their associated discrete hypergeometric functions. 
+
+## University of Main, Orono
+
+- Calculus 1 (Freshmen) -2017 - Standard course on differentiation, integration, and differential equations. 
+
+- Algebra (Graduate) -2016 - Course on Linear Algebra with a focus on Lie Algebras
+
+- Differential equations and linear algebra (Sophomore) - 2017 - A course on linear differential equations and abstract linear algebra. 
