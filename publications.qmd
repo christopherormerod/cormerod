@@ -4,6 +4,11 @@ title: "Publications"
 
 # Artificial Intelligence
 
+- Scarlatos A, Fernandez N, Ormerod C, Lottridge S, Lan A (2025) SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction [arXiv preprint arXiv:2505.22771](https://arxiv.org/pdf/2505.22771)
+- C Ormerod (2025) Automated Essay Scoring Incorporating Annotations from Automated Feedback Systems
+[arXiv preprint arXiv:2507.05129](https://arxiv.org/pdf/2507.05129)
+- North, K, Ormerod, C (2025) Cyborg Data: Merging Human with AI Generated Training Data
+[arXiv preprint arXiv:2503.22736](https://arxiv.org/pdf/2503.22736)
 - Ormerod, C., & Kwako, A. (2024) Automated Text Scoring in the Age of Generative AI for the GPU-poor [arXiv preprint arXiv:2408.01873](https://arxiv.org/pdf/2408.01873) 
 - Wang, Z., & Ormerod, C. (2024) Generative Language Models with Retrieval Augmented Generation for Automated Short Answer Scoring [arXiv preprint arXiv:2408.03811](https://arxiv.org/pdf/2408.03811) 
 - Kwako, A., & Ormerod, C. (2024). Can Language Models Guess Your Identity? Analyzing Demographic Biases in AI Essay Scoring. In Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024) (pp. 78-86).
